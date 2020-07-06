@@ -21,3 +21,5 @@ Tensorflow 2.1, GeForce GTX 1050, Python 3.7
 
 ## Credits
 --TODO : List GAN Understanding articles
+* Here is a really informative guide about many pitfalls that often occur when training/developing a GAN; as well as, tips to better your GAN!
+https://medium.com/@utk.is.here/keep-calm-and-train-a-gan-pitfalls-and-tips-on-training-generative-adversarial-networks-edd529764aa9
